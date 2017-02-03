@@ -13,7 +13,7 @@
 
     h1 {
         text-align: center;
-        color: #1a53ff;
+        color: #3F51B5;
         text-shadow: 2px 2px #ff0000;
     }
 
@@ -23,7 +23,7 @@
         box-shadow: 17px 15px 47px 2px rgba(145,145,145,0.88);
         text-align: center;
         border-radius: 20vw;
-        background-color: #1a53ff;
+        background-color: #3F51B5;
         padding: 5%;
         margin-bottom:2vh;
     }
@@ -33,7 +33,7 @@
         box-shadow: 17px 15px 47px 2px rgba(145,145,145,0.88);
         text-align: center;
         border-radius: 25vw;
-        background-color: #1a53ff;
+        background-color: #3F51B5;
         padding: 6% 7%;
         margin-bottom:2vh;
     }
@@ -59,7 +59,7 @@
 
     h1 {
         text-align: center;
-        color: #1a53ff;
+        color: #3F51B5;
         text-shadow: 2px 2px #ff0000;
     }
 
@@ -69,7 +69,7 @@
         box-shadow: 17px 15px 47px 2px rgba(145,145,145,0.88);
         text-align: center;
         border-radius: 25vw;
-        background-color: #1a53ff;
+        background-color: #3F51B5;
         padding: 5%;
         margin-bottom:2vh;
     }
@@ -79,7 +79,7 @@
         box-shadow: 17px 15px 47px 2px rgba(145,145,145,0.88);
         text-align: center;
         border-radius: 30vw;
-        background-color: #1a53ff;
+        background-color: #3F51B5;
         padding: 5%;
         margin-bottom:2vh;
     }
@@ -93,7 +93,7 @@
 @media only screen and (min-width:200px) and (max-width:999px) {
      h1 {
         text-align: center;
-        color: #1a53ff;
+        color: #3F51B5;
         text-shadow: 2px 2px #ff0000;
     }
     body {
@@ -104,13 +104,13 @@
         
     }
     .bubble {
-        background-color: #1a53ff;
+        background-color: #3F51B5;
         padding: 5%;
         margin-bottom:2vh;
     }
     .bubble1 {
         
-        background-color: #1a53ff;
+        background-color: #3F51B5;
         padding: 5%;
         margin-bottom:2vh;
     }
