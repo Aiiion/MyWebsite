@@ -37,11 +37,16 @@
         padding: 6% 7%;
         margin-bottom:2vh;
     }
-
+    .lessMargin{
+        margin-top:-120px;
+    }
     .link {
-        float: left;
+        float: left;    
         text-align: center;
         padding: 5px;
+    }
+    a:hover{
+        color:#ff0000;
     }
 }
 @media only screen and (min-width:1000px) and (max-width:1200px) {
@@ -89,6 +94,9 @@
         text-align: center;
         padding: 5px;
     }
+    a:hover{
+        color:#ff0000;
+    }
 }
 @media only screen and (min-width:200px) and (max-width:999px) {
      h1 {
@@ -113,6 +121,9 @@
         background-color: #3F51B5;
         padding: 5%;
         margin-bottom:2vh;
+    }
+    a:hover{
+        color:#ff0000;
     }
 }
 
