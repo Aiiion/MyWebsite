@@ -13,5 +13,9 @@ namespace MyWebsite.Controllers
         {
             return View();
         }
+        public ActionResult Eng()
+        {
+            return View();
+        }
     }
 }

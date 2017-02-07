@@ -97,6 +97,8 @@
     <Content Include="Global.asax" />
     <Content Include="Images\github-icon.png" />
     <Content Include="Images\LinkedIn_logo_initials.png" />
+    <Content Include="Images\sweden-flag-button-round-1.png" />
+    <Content Include="Images\united_kingdom_640.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -123,6 +125,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Home\Eng.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
